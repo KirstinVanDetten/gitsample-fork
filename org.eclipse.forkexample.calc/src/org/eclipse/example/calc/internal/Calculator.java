@@ -45,7 +45,8 @@ public class Calculator {
 	private void calculate(String cmdName) {
 		float curValue;
 		float newValue = 0;
-
+        // TODO BK zweite Änderung
+		
 		// get current value of display
 		curValue = Float.parseFloat(textProvider.getDisplayText());
 
