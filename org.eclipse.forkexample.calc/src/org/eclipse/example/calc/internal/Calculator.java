@@ -36,6 +36,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+	    // TODO BK Ops
 		new Equals();
 		new Minus();
 		new Plus();
