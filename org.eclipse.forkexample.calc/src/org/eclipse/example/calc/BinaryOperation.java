@@ -18,4 +18,5 @@ public interface BinaryOperation extends Operation {
 	 */ 
 	public float perform(float arg1, float arg2);
 	// Was soll hier noch kommen
+	// nochmal zur Übung
 }
